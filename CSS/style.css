@@ -1,0 +1,27 @@
+html{
+    background-color: rgb(184, 123, 44);
+}
+    h1{
+        text-align: center;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+        h2{
+            text-align: center;
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        p{
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            text-align: justify;
+        }
+    
+        .branco{
+            color:white  
+        }
+        #sublinhado{
+            text-decoration: underline;
+            color:rgb(187, 0, 0);
+        }
+        .futebol{
+            text-decoration: solid;
+            color:rgb(20, 194, 98)
+        }
